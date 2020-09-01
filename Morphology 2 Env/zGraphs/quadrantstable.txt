@@ -1,0 +1,65 @@
+____MEAN____
+
+\begin{tabular}{lrrr}
+\toprule
+{} &     Legged &    Wheeled &    Whegged \\
+\midrule
+\textbf{Sum    } &  25.654773 &  22.902935 &  30.824110 \\
+\textbf{Product} &  22.972804 &  22.166808 &  26.980975 \\
+\textbf{Min    } &  49.518875 &  48.674188 &  54.332342 \\
+\bottomrule
+\end{tabular}
+
+
+____STDDEV____
+
+\begin{tabular}{lrrr}
+\toprule
+{} &     Legged &    Wheeled &    Whegged \\
+\midrule
+\textbf{Sum    } &  16.748597 &  15.491451 &  19.789447 \\
+\textbf{Product} &  12.723429 &  16.364646 &  13.122111 \\
+\textbf{Min    } &  12.698688 &  14.271160 &  14.307566 \\
+\bottomrule
+\end{tabular}
+
+
+____MEDIAN____
+
+\begin{tabular}{lrrr}
+\toprule
+{} &     Legged &    Wheeled &  Whegged \\
+\midrule
+\textbf{Sum    } &  25.000000 &  20.629371 &     30.0 \\
+\textbf{Product} &  22.474747 &  16.025641 &     25.0 \\
+\textbf{Min    } &  50.000000 &  47.883598 &     50.0 \\
+\bottomrule
+\end{tabular}
+
+
+____ROBOT-P____
+
+\begin{tabular}{lrrr}
+\toprule
+{} &  Legged-Wheeled &  Wheeled-Whegged &  Wheeged-Legged \\
+\midrule
+\textbf{Sum    } &        5.486802 &         1.064652 &        1.417151 \\
+\textbf{Product} &        4.337992 &         0.737190 &        3.478131 \\
+\textbf{Min    } &        6.152346 &         1.244992 &        1.961617 \\
+\bottomrule
+\end{tabular}
+
+
+____FUNCT-P____
+
+\begin{tabular}{lrrr}
+\toprule
+{} &        Legged &   Wheeled &       Whegged \\
+\midrule
+\textbf{Sum-Product} &  5.721927e+00 &  5.768133 &  4.589555e+00 \\
+\textbf{Product-Min} &  9.691559e-08 &  0.000003 &  2.661740e-07 \\
+\textbf{Min-Sum    } &  1.249466e-07 &  0.000003 &  7.732226e-06 \\
+\bottomrule
+\end{tabular}
+
+
